@@ -4,7 +4,7 @@ weight: 3
 
 # In test
 
-(Table version) Text introducing what's currently in test.
+Text introducing what's currently in test. The first column (name) refers to the end-to-end journey and the second column (description) refers to the function of the stated journey.
 
 ***
 

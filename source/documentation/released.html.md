@@ -1,12 +1,14 @@
 ---
-weight: 5
+weight: 4
 ---
 
 # Released
 
-## User interface functionality
+Text introducing what’s been released.  The first column (name) refers to the end-to-end journey and the second column (description) refers to the function of the stated journey.
 
 ***
+
+**User interface functionality**
 
 Name | Description | Group
  --- | --- | ---
@@ -17,9 +19,7 @@ Name | Description | Group
 **Authorisation (agent/client relationship)** | Allows an agent to **request authorisation from a client** by sending an invitation. The client then responds to the invitation by either accepting or rejecting | Agent
 **Agent/client break link** | Allows HMRC or a client to **end an authorised relationship** | Businesses and agents
 
-## Guides
-
-***
+**Guides**
 
 Name | Description | Group
  --- | --- | ---
