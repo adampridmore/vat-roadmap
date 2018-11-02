@@ -4,7 +4,7 @@ weight: 1
 
 # VAT (MTD) Roadmap
 
-We produce this roadmap as a high level view of the VAT (MTD) services planned or already open to you as third party software developers.
+We produce this roadmap to give you a high level view of our current and planned API services for VAT (MTD).
 
 ## What this Roadmap tells you
 
@@ -35,31 +35,3 @@ Our **Software Developer Support Team** (SDST) provides technical information an
 Our **Digital Relationship Management** (DRM) team provides dedicated account management to developers and developer representative bodies.
 
 For more information, please email <a href="mailto:sdsteam@hmrc.gsi.gov.uk?Subject=Roadmap%20enquiry">sdsteam@hmrc.gsi.gov.uk</a>
-
-## Changelog
-
-Description | Date
- --- | ---
-**VAT (MTD) End-to-end Service Guide v1.0** | **Oct 2018**
-Document name changed |
-Developer Hub hosted HTML version with process diagrams replaces PDF version V4.0 |
-**Making Tax Digital (MTD)-VAT End-to-End (E2E) Customer Journeys v4.0** | **Sep 2018**
-Document name changed |
-PDF version includes placeholder information for post CGL features |
-**MTD-VAT E2E customer journeys v3.0** | **Jul 2018**
-Document name changed |
-PDF version expands End-to-end journeys for business and agent |
-Adds timeline of feature delivery on journey |
-**MTDfB-Income Tax E2E customer journeys v1.0** | **Feb 2018**
-Document name changed |
-Standalone PDF replaces HTML after Sandbox merge with Developer Hub |
-Adds End-to-end journey process diagram |
-Adds Vision and High Level Design |
-**Making Tax Digital for Business VAT Guide for Vendors Version v1.0** | **Jun 2017**
-HTML version hosted on Developer Hub Sandbox |
-Adds process diagrams to explain agent flow |
-Adds glossary of terms |
-
-## Footer
-
-Before releasing functionality to all our customers we will conduct testing on it with limited customer numbers. This period is referred to as “controlled go live” or Private Beta.
