@@ -1,14 +1,14 @@
 ---
-weight: 4
+weight: 5
 ---
 
 # In test
 
-(Table version)
-
-## Current endpoint functionality in test and live
+(Table version) Text introducing what's currently in test.
 
 ***
+
+**Current endpoint functionality in test and live**
 
 Name | Description | Group
  --- | --- | ---
