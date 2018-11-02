@@ -33,6 +33,15 @@ The ‘backend’ functionality is being developed in parallel with the frontend
 
 Before releasing functionality to all our customers we will conduct testing on it with limited customer numbers. This period is referred to as “controlled go live” or Private Beta.
 
+## Who we are
+
+We are the Software Developer Collaboration Team (SDST) made up of two teams.
+
+Our **Software Developer Support Team** (SDST) provides technical information and support to third party software developers including producing this roadmap.
+
+Our **Digital Relationship Management** (DRM) team provides dedicated account management to developers and developer representative bodies.
+
+For more information, please email sdsteam@hmrc.gsi.gov.uk
 
 ## Changelog
 
