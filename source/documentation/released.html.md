@@ -4,7 +4,7 @@ weight: 4
 
 # Released
 
-Text introducing what’s been released.  The first column (name) refers to the end-to-end journey and the second column (description) refers to the function of the stated journey.
+End-to-end journey functionality available for you to test against and open for live transactions.
 
 ***
 
@@ -12,7 +12,7 @@ Text introducing what’s been released.  The first column (name) refers to the 
 
 Name | Description | Group
  --- | --- | ---
-**Sign up to report your VAT through software or sign up a client to report your VAT through software** | Allows sole trader and incorporated businesses to **subscribe to the MTDfB VAT Service**. Also agents who have signed up to MTD Agent Services and who have a formal relationship with a client will be able to subscribe on their behalf. | Businesses and agents
+**Sign up to report your VAT through software or sign up a client to report your VAT through software** | Allows sole traders and incorporated businesses to **subscribe to the MTDfB VAT Service**. Also agents who have signed up to MTD Agent Services and who have a formal relationship with a client will be able to subscribe on their clients' behalf. | Businesses and agents
 **View future obligations and previous returns in BTA** | Customer **view on UI of previously submitted data**, obligations and payments | Businesses and agents
 **Create agent services account and link VAT clients** | UI available for **agents to create an agent services account** | Agent
 **Create agent services account and link VAT clients** | UI available to allow an agent to **link all existing VAT clients** to the agent services account | Agent

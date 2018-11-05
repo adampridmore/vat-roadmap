@@ -4,9 +4,19 @@ weight: 1
 
 # VAT (MTD) Roadmap
 
-This roadmap gives an overview of the current and planned API services for VAT (MTD). It details the APIs currently available in both our 'Test' and 'Live' environments, and the anticipated schedule for our future releases.
+This roadmap describes VAT (MTD)'s development plans for the benefit of developers creating software that interacts with our APIs. It details the APIs currently available in both our 'Test' and 'Live' environments, and the anticipated schedule for our future releases.
 
-The roadmap also provides details of related user interface releases.
+**[Backlog](documentation/backlog.html#backlog)**
+
+Our priorities for end-to-end journey functionality.
+
+**[In Test](documentation/in-test.html#in-test)**
+
+End-to-end journey functionality currently in test.
+
+**[Released](documentation/released.html#released)**
+
+End-to-end journey functionality available for you to test against and open for live transactions.
 
 ## Who we are
 
