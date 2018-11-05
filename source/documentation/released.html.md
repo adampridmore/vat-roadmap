@@ -10,7 +10,7 @@ End-to-end journey functionality available for you to test against and open for 
 
 **User interface functionality**
 
-Name | Description | Group
+Name | Description | Target user
  --- | --- | ---
 **Sign up to report your VAT through software or sign up a client to report your VAT through software** | Allows sole traders and incorporated businesses to **subscribe to the MTDfB VAT Service**. Also agents who have signed up to MTD Agent Services and who have a formal relationship with a client will be able to subscribe on their clients' behalf. | Businesses and agents
 **View future obligations and previous returns in BTA** | Customer **view on UI of previously submitted data**, obligations and payments | Businesses and agents
@@ -21,6 +21,6 @@ Name | Description | Group
 
 **Guides**
 
-Name | Description | Group
+Name | Description | Target user
  --- | --- | ---
 **Payments and repayments** | Payment options and signposting to **different payment methods** available to customers | Businesses and agents
