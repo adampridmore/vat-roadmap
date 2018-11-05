@@ -10,7 +10,7 @@ End-to-end journey functionality currently in test.
 
 **Current endpoint functionality in test and live**
 
-Name | Description | Target user
+Name | Description | End user
  --- | --- | ---
 **Retrieve obligations and submit return** | View their **previous returns** - enables software to retrieve previously submitted returns. Only returns submitted since joining MTD will be able to be retrieved | Businesses and agents
 **Payments and repayments** | View **previous payments** - enables customers to view information about payments they have made through software | Businesses and agents
