@@ -34,5 +34,5 @@ Name | Description | Target user
 
 Name | Description | Target user
  --- | --- | ---
-**Authorisation (agent/client relationship)** | (API **allows an agent to request authorisation from a client** by sending an invitation. The client then responds to the invitation by either accepting or rejecting | Businesses and agents
+**Authorisation (agent/client relationship)** | API **allows an agent to request authorisation from a client** by sending an invitation. The client then responds to the invitation by either accepting or rejecting | Businesses and agents
 **Retrieve obligations and submit update** | **VAT additional information/supplementary** – This will enable customers to provide additional information from their VAT account relevant to their VAT return | Businesses and agents
