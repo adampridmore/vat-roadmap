@@ -16,7 +16,7 @@ Name | Description | End user
 **View future obligations and previous returns in BTA** | Customer **view on user interface of previously submitted data**, obligations and payments | Businesses and agents
 **Create agent services account and link VAT clients** | User interface available for **agents to create an agent services account** | Agent
 **Create agent services account and link VAT clients** | User interface available to allow an agent to **link all existing VAT clients** to the agent services account | Agent
-**Authorisation (agent/client relationship)** | Allows an agent to **request authorisation from a client** by sending an invitation. The client then responds to the invitation by either accepting or rejecting | Agent
+**Authorisation (agent and client relationship)** | Allows an agent to **request authorisation from a client** by sending an invitation. The client then responds to the invitation by either accepting or rejecting | Agent
 **Agent or client break link** | Allows HMRC or a client to **end an authorised relationship** | Businesses and agents
 
 **Guides**
