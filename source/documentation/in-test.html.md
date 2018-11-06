@@ -4,7 +4,7 @@ weight: 3
 
 # In test
 
-End-to-end journey functionality currently in test.
+Functionality currently available in sandbox for testing.
 
 ***
 

@@ -4,7 +4,7 @@ weight: 2
 
 # Backlog
 
-Here are our priorities for end-to-end journey functionality.
+Our upcoming priorities for end-to-end journey functionality.
 
 ## Near term
 

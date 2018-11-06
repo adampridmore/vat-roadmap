@@ -18,7 +18,8 @@ Functionality currently available in sandbox for testing.
 
 **[Released](documentation/released.html#released)**
 
-End-to-end journey functionality available for you to test against and open for live transactions.
+End-to-end journey functionality available in sandbox for testing and in production for live transactions.
+
 
 ## Who we are
 

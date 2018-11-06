@@ -4,7 +4,7 @@ weight: 4
 
 # Released
 
-End-to-end journey functionality available for you to test against and open for live transactions.
+End-to-end journey functionality available in sandbox for testing and in production for live transactions.
 
 ***
 
