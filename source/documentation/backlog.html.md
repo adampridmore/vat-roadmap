@@ -8,6 +8,8 @@ Our upcoming priorities for end-to-end journey functionality.
 
 ## Near term
 
+18 October 2018 to February 2019
+
 ***
 
 **User interface functionality**
@@ -20,6 +22,8 @@ Name | Description | End user
 
 ## Mid term
 
+March to April 2019
+
 ***
 
 **User interface functionality**
@@ -29,6 +33,8 @@ Name | Description | End user
 **Change of circumstances or client change of circumstances** | Allow sole traders, organisations and agent to make a **change to their circumstances (deregistration)** | Businesses and agents
 
 ## Long term
+
+May to October 2019
 
 ***
 
