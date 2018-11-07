@@ -17,7 +17,7 @@ Our upcoming priorities for end-to-end journey functionality.
 Name | Description | End user
  --- | --- | ---
 **Payments and repayments** | Create, view and delete **Direct Debit** instructions | Businesses and agents
-**Change of circumstances or client change of circumstances** | Allow sole traders, organisations and agent to make a **change to their circumstances (MVP - change of address, PPOB, bank details and stagger)** | Businesses and agents
+**Change of circumstances or client change of circumstances** | Allow sole traders, organisations and agents to **change their address, PPOB, bank details and stagger** | Businesses and agents
 **Payments and repayments** | Amend **Direct Debit** instructions | Businesses and agents
 
 ## Mid term
@@ -30,7 +30,7 @@ March to April 2019
 
 Name | Description | End user
  --- | --- | ---
-**Change of circumstances or client change of circumstances** | Allow sole traders, organisations and agent to make a **change to their circumstances (deregistration)** | Businesses and agents
+**Change of circumstances or client change of circumstances** | Allow sole traders, organisations and agents to **deregister** | Businesses and agents
 
 ## Long term
 
