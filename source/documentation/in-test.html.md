@@ -2,13 +2,13 @@
 weight: 3
 ---
 
-# In test
+# In sandbox
 
 Functionality currently available in sandbox for testing.
 
 ***
 
-**Current endpoint functionality in test and live**
+**Endpoint functionality**
 
 Name | Description | End user
  --- | --- | ---
