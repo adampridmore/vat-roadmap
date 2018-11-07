@@ -4,7 +4,7 @@ weight: 1
 
 # VAT (MTD) Roadmap
 
-This roadmap describes VAT (MTD)'s development plans for the benefit of developers creating software that interact with our APIs. It details the APIs currently available in both our 'Sandbox' and 'Production' environments, and the anticipated schedule for our future releases.
+This roadmap describes VAT (MTD)'s development plans for the benefit of teams creating software that interact with our APIs. It lists the APIs currently available in our 'Sandbox' and 'Production' environments and the anticipated schedule for our future releases.
 
 In the roadmap are the following:
 
@@ -23,9 +23,9 @@ End-to-end journey functionality available in sandbox for testing and in product
 
 ## Who we are
 
-We are the Software Developer Collaboration Team (SDST), made up of two teams.
+We are the Software Developer Collaboration Team, made up of two further teams:
 
-Our **Software Developer Support Team** (SDST) provides technical information and support to third party software developers including producing this roadmap.
+Our **Software Developer Support Team** (SDST) provides technical information and support to software developers.
 
 Our **Digital Relationship Management** (DRM) team provides dedicated account management to developers and developer representative bodies.
 
